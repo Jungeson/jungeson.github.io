@@ -15,6 +15,14 @@ a:link,a:visited{text-decoration:none;}
 a:hover{text-decoration:underline;}
 </style>
 
+<style>
+  @media (max-width: 600px) {
+    picture {
+      display: none;
+    }
+  }
+</style>
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
