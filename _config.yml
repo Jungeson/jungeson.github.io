@@ -6,8 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-github: [metadata]
-port: 4001
 locale                   : "en-US"
 title                    : "Dr. Jun Xia"
 title_separator          : "-"
