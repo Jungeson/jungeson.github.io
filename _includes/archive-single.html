@@ -15,7 +15,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.image %}
-      <img src='{{ base_path }}{{ post.image }}' onerror="this.style.display='none'" style="float: right; padding-top: 2px; " width="150" height="150" alt="{{ post.alt }}">
+      <img src='{{ base_path }}{{ post.image }}' onerror="this.style.display='none'" style="float: right; padding-top: 2px; " width="180" height="180" alt="{{ post.alt }}">
     {% endif %}
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
