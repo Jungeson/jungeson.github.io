@@ -6,15 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-github: [metadata]
-port: 4001
 locale                   : "en-US"
 title                    : "Dr. Jun Xia"
 title_separator          : "-"
 name                     : &name "Jun Xia"
 description              : &description "personal description"
-url                      : http://127.0.0.1 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : http://staff.ustc.edu.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/~xiajun" # the subpath of your site, e.g. "/blog"
 repository               : "Jungeson/jungeson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
