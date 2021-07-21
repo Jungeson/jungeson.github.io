@@ -22,7 +22,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 
 | <i>07/2020-present</i> | Postdoctoral Fellow, under the supervison of [Prof. HengAn Wu](http://staff.ustc.edu.cn/~wuha) |  
 | | Department of Modern Mechanics, University of Science and Technology of China |  
-| <i>09/2015-07/2020</i> | Ph.D. in Solid Mechanics, Advisor: Prof. HengAn Wu |  
+| <i>09/2015-07/2020</i> | Ph.D. in Solid Mechanics, Advisor: [Prof. HengAn Wu](http://staff.ustc.edu.cn/~wuha) |  
 | | Department of Modern Mechanics, University of Science and Technology of China |  
 | <i>09/2011-06/2015</i> | Bachelor in Engineering Mechanics |  
 | | Nanjing University of Science and Technology |   
