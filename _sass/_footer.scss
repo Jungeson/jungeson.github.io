@@ -23,7 +23,8 @@
           animation-delay: 0.45s;
   /* background-color: $lighter-gray; */
   background-color: #0092ca;
-  border-top: 1px solid $light-gray;
+  /* border-top: 1px solid $light-gray; */
+  border-top: 1px solid #0092ca;
 
   footer {
     @include clearfix;
