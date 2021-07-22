@@ -23,6 +23,15 @@ author_profile: true
   }
 </style>
 
+<style>
+  .details-1 summary {
+      padding: 3px;
+      border-radius: 5px;
+      background-color: #7a8288;
+      color: #ffffff;
+  }
+</style>
+
 <br/>
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
@@ -32,8 +41,8 @@ author_profile: true
     {% if written_year != 'None' %}
       </details>
     {% endif %}
-    <details open='open'>
-    <summary style="outline: 0; margin-bottom: 20px"><h2 style="display: inline;" id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2></summary>
+    <details class="details-1" open>
+    <summary style="outline: 0; margin-bottom: 20px"><h2 style="display: inline; color: #ffffff;" id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2></summary>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
