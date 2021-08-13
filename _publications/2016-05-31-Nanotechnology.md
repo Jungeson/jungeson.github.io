@@ -5,7 +5,7 @@ permalink: /publication/2016-05-31-Nanotechnology.html
 date: 2016-05-31
 venue: '<b>Nanotechnology</b>'
 paperurl: 'http://dx.doi.org/10.1088/0957-4484/27/27/274004'
-citation: '<u>Xia, J.</u>, X.Y. Liu, W. Zhou, F.C. Wang and H.A. Wu*, Transformation between divacancy defects induced by an energy pulse in graphene. <i>Nanotechnology</i>, 2016, 27(27): 274004.'
+citation: '<u><b>J. Xia</b></u>, X.Y. Liu, W. Zhou, F.C. Wang and H.A. Wu*, Transformation between divacancy defects induced by an energy pulse in graphene. <i>Nanotechnology</i>, 2016, 27(27): 274004.'
 image: "/images/publication_images/2016-05-31-Nanotechnology.gif"
 ---
 
