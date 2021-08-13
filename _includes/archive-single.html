@@ -16,7 +16,7 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.image %}
       <picture>
-        <img srcset='{{ base_path }}{{ post.image }}' onerror="this.style.display='none'" style="float: right;" width="270" alt="{{ post.alt }}">
+        <img src='{{ base_path }}{{ post.image }}' onerror="this.style.display='none'" style="float: right;" width="270" alt="{{ post.alt }}">
       </picture>
     {% endif %}
     {% if include.type == "grid" and teaser %}
