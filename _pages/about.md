@@ -20,6 +20,29 @@ redirect_from:
     a.style1:hover{text-decoration:underline;}
 </style>
 
+<style>
+  @media (max-width: 671px) {
+    table.t1 {
+      display: none;
+    }
+  }
+  @media (min-width: 925px) and (max-width: 1280px) {
+    table.t1 {
+      display: none;
+    }
+  }
+  @media (min-width: 672px) and (max-width: 924px) {
+    table.t2 {
+      display: none;
+    }
+  }
+  @media (min-width: 1281px) {
+    table.t2 {
+      display: none;
+    }
+  }
+</style>
+
 Dr. **Jun Xia** （夏骏）  
 Postdoctoral Fellow  
 Department of Modern Mechanics, University of Science and Technology of China (USTC)  
@@ -37,7 +60,41 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 
 # Selected Publications
 
-<table>
+<table class=t1>
+  <tr>
+    <td colspan="2"><hr style="border-color:lightgrey;" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src='./images/publication_images/2019-04-18-ACS-AMI.gif' width="300"></td>
+    <td align="center">Superstrong noncovalent interface between melamine and graphene oxide<br/><a class=style1 href="./publication/2019-04-18-ACS-AMI.html" target="_blank"><i><b>ACS Appl. Mater. Inter.</b></i>, 2019, 11(18), 17068–17078.</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr style="border-color:lightgrey;" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src='./images/publication_images/2020-10-15-Carbon.gif' width="300"></td>
+    <td align="center">Unravelling the interactions between organic molecule and reduced graphene oxide in aqueous environment<br/><a class=style1 href="./publication/2020-10-15-Carbon.html" target="_blank"><i><b>Carbon</b></i>, 2020, 167, 345–350.</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr style="border-color:lightgrey;" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src='./images/publication_images/2021-03-11-Nat-Catal.gif' width="300"></td>
+    <td align="center">Solid–liquid phase transition induced electrocatalytic switching from hydrogen evolution to highly selective CO<sub>2</sub> reduction<br/><a class=style1 href="./publication/2021-03-11-Nat-Catal.html" target="_blank"><i><b>Nat. Catal.</b></i>, 2021, 4, 202–211.</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr style="border-color:lightgrey;" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src='./images/publication_images/2020-12-29-ACS-Nano.gif' width="300"></td>
+    <td align="center">Strengthening and toughening hierarchical nanocellulose via humidity-mediated interface<br/><a class=style1 href="./publication/2020-12-29-ACS-Nano.html" target="_blank"><i><b>ACS Nano</b></i>, 2021, 15(1), 1310–1320.</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr style="border-color:lightgrey;" /></td>
+  </tr>
+</table>
+
+<table class=t2>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
   </tr>
