@@ -12,6 +12,7 @@ redirect_from:
     table td:nth-child(1) { white-space: nowrap }
     table, table tr th { border:0px solid white; padding:0 }
     table tr td { border:0px solid white; padding-bottom:0.05em }
+    ul.circle {list-style-type:circle}
 </style>
 
 <style>
@@ -57,6 +58,12 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 |                           | Nanjing University of Science and Technology                                                                                           |   
 
 # Research Fields of Interest
+
+<ul class="circle">
+<li>Noncovalent interfaces: bonding & crosslink; binding & adsorption; Chemomechanical mechanisms.</li>
+<li>Chemomechanical behaviors of graphene(-oxide)-based layered materials.</li>
+<li>Atomistic nature and structure-property relationship of nanomaterials.</li>
+</ul>
 
 # Selected Publications
 
