@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Gas Recovery in Kerogen Pyrolytic Pore Network: Molecular Simulations and Theoretical Analysis"
+title: "Enhanced gas recovery in kerogen pyrolytic pore network: Molecular simulations and theoretical analysis"
 collection: publications
 permalink: /publication/2021-01-22-Energ-Fuel.html
 date: 2021-01-22
