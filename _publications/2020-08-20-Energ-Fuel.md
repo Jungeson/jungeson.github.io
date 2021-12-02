@@ -1,8 +1,8 @@
 ---
 title: "Nanoconfined transport characteristic of methane in organic shale nanopores: the applicability of the continuous model"
 collection: publications
-permalink: /publication/2020-06-25-Energ-Fuel.html
-date: 2020-06-25
+permalink: /publication/2020-08-20-Energ-Fuel.html
+date: 2020-08-20
 venue: '<b>Energy &amp; Fuels</b>'
 paperurl: 'https://doi.org/10.1021/acs.energyfuels.0c01789'
 citation: 'H. Yu, H.Y. Xu, <u><b>J. Xia</b></u>, J.C. Fan, F.C. Wang and H.A. Wu*, Nanoconfined transport characteristic of methane in organic shale nanopores: the applicability of the continuous model. <i>Energy &amp; Fuels</i>, 2020, 34(8): 9552–9562.'
