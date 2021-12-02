@@ -1,8 +1,8 @@
 ---
 title: "Enhanced gas recovery in kerogen pyrolytic pore network: Molecular simulations and theoretical analysis"
 collection: publications
-permalink: /publication/2021-01-22-Energ-Fuel.html
-date: 2021-01-22
+permalink: /publication/2021-02-04-Energ-Fuel.html
+date: 2021-02-04
 venue: '<b>Energy &amp; Fuels</b>'
 paperurl: 'https://doi.org/10.1021/acs.energyfuels.0c04137'
 citation: 'H.Y. Xu, H. Yu*, J.C. Fan, <u><b>J. Xia</b></u>, F.C. Wang and H.A. Wu, Enhanced gas recovery in kerogen pyrolytic pore network: Molecular simulations and theoretical analysis. <i>Energy &amp; Fuels</i>, 2021, 35(3): 2253–2267.'
