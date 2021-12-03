@@ -80,7 +80,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
   </tr>
   <tr>
     <td align="center"><img src='./images/publication_images/2020-10-15-Carbon.gif' width="300"></td>
-    <td align="center">Unravelling the interactions between organic molecule and reduced graphene oxide in aqueous environment<br/><a class=style1 href="./publication/2020-10-15-Carbon.html" target="_blank"><i><b>Carbon</b></i>, 2020, 167, 345–350.</a></td>
+    <td align="center">Unravelling the interactions between organic molecules and reduced graphene oxide in an aqueous environment<br/><a class=style1 href="./publication/2020-10-15-Carbon.html" target="_blank"><i><b>Carbon</b></i>, 2020, 167, 345–350.</a></td>
   </tr>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
