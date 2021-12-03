@@ -72,8 +72,8 @@ Department of Modern Mechanics, University of Science and Technology of China (U
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
   </tr>
   <tr>
-    <td align="center"><img src='./images/publication_images/2019-04-18-ACS-AMI.gif' width="300"></td>
-    <td align="center">Superstrong noncovalent interface between melamine and graphene oxide<br/><a class=style1 href="./publication/2019-04-18-ACS-AMI.html" target="_blank"><i><b>ACS Appl. Mater. Inter.</b></i>, 2019, 11(18), 17068–17078.</a></td>
+    <td align="center"><img src='./images/publication_images/2019-05-08-ACS-AMI.gif' width="300"></td>
+    <td align="center">Superstrong noncovalent interface between melamine and graphene oxide<br/><a class=style1 href="./publication/2019-05-08-ACS-AMI.html" target="_blank"><i><b>ACS Appl. Mater. Inter.</b></i>, 2019, 11(18), 17068–17078.</a></td>
   </tr>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
@@ -93,8 +93,8 @@ Department of Modern Mechanics, University of Science and Technology of China (U
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
   </tr>
   <tr>
-    <td align="center"><img src='./images/publication_images/2020-12-29-ACS-Nano.gif' width="300"></td>
-    <td align="center">Strengthening and toughening hierarchical nanocellulose via humidity-mediated interface<br/><a class=style1 href="./publication/2020-12-29-ACS-Nano.html" target="_blank"><i><b>ACS Nano</b></i>, 2021, 15(1), 1310–1320.</a></td>
+    <td align="center"><img src='./images/publication_images/2021-01-26-ACS-Nano.gif' width="300"></td>
+    <td align="center">Strengthening and toughening hierarchical nanocellulose via humidity-mediated interface<br/><a class=style1 href="./publication/2021-01-26-ACS-Nano.html" target="_blank"><i><b>ACS Nano</b></i>, 2021, 15(1), 1310–1320.</a></td>
   </tr>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
@@ -106,8 +106,8 @@ Department of Modern Mechanics, University of Science and Technology of China (U
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
   </tr>
   <tr>
-    <td align="center"><img src='./images/publication_images/2019-04-18-ACS-AMI.gif' width="270"></td>
-    <td align="center"><a class=style1 href="./publication/2019-04-18-ACS-AMI.html" target="_blank"><i><b>ACS Appl. Mater. Inter.</b></i>, 2019, 11(18), 17068–17078.</a></td>
+    <td align="center"><img src='./images/publication_images/2019-05-08-ACS-AMI.gif' width="270"></td>
+    <td align="center"><a class=style1 href="./publication/2019-05-08-ACS-AMI.html" target="_blank"><i><b>ACS Appl. Mater. Inter.</b></i>, 2019, 11(18), 17068–17078.</a></td>
   </tr>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
@@ -127,8 +127,8 @@ Department of Modern Mechanics, University of Science and Technology of China (U
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
   </tr>
   <tr>
-    <td align="center"><img src='./images/publication_images/2020-12-29-ACS-Nano.gif' width="270"></td>
-    <td align="center"><a class=style1 href="./publication/2020-12-29-ACS-Nano.html" target="_blank"><i><b>ACS Nano</b></i>, 2021, 15(1), 1310–1320.</a></td>
+    <td align="center"><img src='./images/publication_images/2021-01-26-ACS-Nano.gif' width="270"></td>
+    <td align="center"><a class=style1 href="./publication/2021-01-26-ACS-Nano.html" target="_blank"><i><b>ACS Nano</b></i>, 2021, 15(1), 1310–1320.</a></td>
   </tr>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
