@@ -46,7 +46,7 @@ redirect_from:
 
 Dr. **Jun Xia** （夏骏）  
 Postdoctoral Fellow  
-Department of Modern Mechanics, University of Science and Technology of China (USTC)  
+Department of Modern Mechanics, University of Science and Technology of China (USTC, 中国科学技术大学)  
 
 # Experience & Education
 
