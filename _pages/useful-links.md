@@ -22,7 +22,7 @@ My collaborators
 
 <a class=style1 style="line-height:40px" href="http://staff.ustc.edu.cn/~wuha" target="_blank">Prof. HengAn Wu, USTC</a><br/>
 <a class=style1 style="line-height:40px" href="http://staff.ustc.edu.cn/~wangfc" target="_blank">Prof. FengChao Wang, USTC</a><br/>
-<a class=style1 style="line-height:40px" href="http://staff.ustc.edu.cn/~zhuyinbo" target="_blank">Dr. YinBo Zhu, USTC</a><br/>
+<a class=style1 style="line-height:40px" href="http://staff.ustc.edu.cn/~zhuyinbo" target="_blank">Prof. YinBo Zhu, USTC</a><br/>
 <a class=style1 style="line-height:40px" href="http://staff.ustc.edu.cn/~fanjc" target="_blank">Dr. JingCun Fan, USTC</a><br/>
 <a class=style1 style="line-height:40px" href="http://home.ustc.edu.cn/~qianjh98" target="_blank">Mr. JianHao Qian, USTC</a><br/>
 <a class=style1 style="line-height:40px" href="http://jiahao.ccv.ink/" target="_blank">Mr. JiaHao Li, USTC</a><br/>
