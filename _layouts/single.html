@@ -46,12 +46,6 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
-          <p>{{ page.citation }} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
-        {% elsif page.citation %}
-          <p>{{ page.citation }} </p>
-        {% endif %}
-        
         {% if page.citation2 and page.paperurl %}
           <p>{{ page.citation2 }} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
         {% elsif page.citation2 %}
