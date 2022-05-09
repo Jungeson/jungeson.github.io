@@ -1,13 +1,24 @@
-hydrodynamic Á÷Ìå¶¯Á¦Ñ§
-entrance length ¹ÜµÀÈë¿Ú¶Î£¨ÆğÊ¼¶Î£©
-velocity profile Á÷ËÙÆÊÃæ£¨²´ËàÒ¶Á÷µÄÁ÷ËÙÎªÅ×ÎïÏß£©
-viscous forces Õ³ĞÔÁ¦ Õ³ÖÍÁ¦
-propagate À©É¢ ´«²¥
-interior wall ¹ÜµÄÄÚ±Ú
-no-slip condition ÎŞ»¬ÒÆÌõ¼ş
-motion ÔË¶¯
-adjacent ÏàÁÚµÄ
-conservation of mass ÖÊÁ¿ÊØºã
-compensate ²¹³¥ ÃÖ²¹
-cross-section ºá½ØÃæ
-boundary layer ±ß½ç²ã
+---
+title: 'å›ºæ¶²ç•Œé¢å•è¯å­¦ä¹ 1'
+date: 2022-05-9
+author: å¼ å…‹è±
+permalink: /posts/2022/05/09/1/
+tags:
+  - å›ºæ¶²ç•Œé¢
+  - é™åŸŸä¼ è´¨
+  - è‹±è¯­å•è¯
+---
+
+hydrodynamic æµä½“åŠ¨åŠ›å­¦<br/>
+entrance length ç®¡é“å…¥å£æ®µï¼ˆèµ·å§‹æ®µï¼‰<br/>
+velocity profile æµé€Ÿå‰–é¢ï¼ˆæ³Šè‚ƒå¶æµçš„æµé€Ÿä¸ºæŠ›ç‰©çº¿ï¼‰<br/>
+viscous forces ç²˜æ€§åŠ› ç²˜æ»åŠ›<br/>
+propagate æ‰©æ•£ ä¼ æ’­<br/>
+interior wall ç®¡çš„å†…å£<br/>
+no-slip condition æ— æ»‘ç§»æ¡ä»¶<br/>
+motion è¿åŠ¨<br/>
+adjacent ç›¸é‚»çš„
+conservation of mass è´¨é‡å®ˆæ’<br/>
+compensate è¡¥å¿ å¼¥è¡¥<br/>
+cross-section æ¨ªæˆªé¢<br/>
+boundary layer è¾¹ç•Œå±‚ã€‚<br/>
