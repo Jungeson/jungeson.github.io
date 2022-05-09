@@ -50,6 +50,12 @@ layout: default
         {% elsif page.citation2 %}
           <p>{{ page.citation2 }} </p>
         {% endif %}
+          
+        {% if page.addinfo and page.addlink %}
+          <p><b><i>{{ page.addinfo }}</i></b> ( <a href="{{ page.addlink }}">{{ page.addlink }}</a> ) </p>
+        {% elsif page.addinfo %}
+          <p><b><i>{{ page.addinfo }}</i></b> </p>
+        {% endif %}
             
         </header>
       {% endunless %}
