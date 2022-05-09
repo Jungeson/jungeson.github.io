@@ -1,0 +1,13 @@
+hydrodynamic 流体动力学
+entrance length 管道入口段（起始段）
+velocity profile 流速剖面（泊肃叶流的流速为抛物线）
+viscous forces 粘性力 粘滞力
+propagate 扩散 传播
+interior wall 管的内壁
+no-slip condition 无滑移条件
+motion 运动
+adjacent 相邻的
+conservation of mass 质量守恒
+compensate 补偿 弥补
+cross-section 横截面
+boundary layer 边界层
