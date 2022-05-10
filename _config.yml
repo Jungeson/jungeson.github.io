@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Jun Xia"
 title_separator          : "-"
-name                     : &name "Jun Xia (夏骏)"
+name                     : &name "Jun Xia"
 description              : &description "Postdoctoral Fellow in USTC"
 url                      : http://staff.ustc.edu.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/~xiajun" # the subpath of your site, e.g. "/blog"
