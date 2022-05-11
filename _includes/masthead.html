@@ -1,8 +1,21 @@
+<style>
+  @media (max-width: 600px) {
+    div.d1 {
+      text-align: center;
+    }
+  }
+  @media (min-width: 601px) {
+    div.d1 {
+      text-align: right;
+    }
+  }
+</style>
+
 {% include base_path %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <div align="right" class="masthead__menu">
+    <div class="masthead__menu d1">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
