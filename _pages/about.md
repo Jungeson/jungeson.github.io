@@ -59,6 +59,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 | <i>09/2011 – 06/2015</i> | Bachelor in Engineering Mechanics                                                                                                      |  
 |                           | Nanjing University of Science and Technology                                                                                           |     
 </section>
+<section class="page__share">
 
 # Research Fields of Interest
 
@@ -67,6 +68,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 <li>Chemomechanical behaviors of graphene(-oxide)-based materials.</li>
 <li>Atomistic nature of nanomaterials with extraodinary performances in mechanics, catalysis, electrochemistry, and et al.</li>
 </ul>
+</section>
 
 # Selected Publications
 
