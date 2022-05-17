@@ -48,6 +48,7 @@ Dr. **Jun Xia** (夏骏)
 Postdoctoral Fellow  
 Department of Modern Mechanics, University of Science and Technology of China (USTC, 中国科学技术大学)  
 
+<section class="page__share">
 # Experience & Education
 
 | <i>07/2020 – present</i> | Postdoctoral Fellow, under the supervison of <a class=style1 href="http://staff.ustc.edu.cn/~wuha" target="_blank">Prof. HengAn Wu</a> |  
@@ -55,7 +56,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 | <i>09/2015 – 07/2020</i> | Ph.D. in Solid Mechanics, Advisor: <a class=style1 href="http://staff.ustc.edu.cn/~wuha" target="_blank">Prof. HengAn Wu</a>           |  
 |                           | Department of Modern Mechanics, University of Science and Technology of China                                                          |  
 | <i>09/2011 – 06/2015</i> | Bachelor in Engineering Mechanics                                                                                                      |  
-|                           | Nanjing University of Science and Technology                                                                                           |   
+|                           | Nanjing University of Science and Technology                                                                                           | </section>
 
 # Research Fields of Interest
 
