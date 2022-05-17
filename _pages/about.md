@@ -60,9 +60,9 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 # Research Fields of Interest
 
 <ul class="circle">
-<li>Noncovalent interfaces: bonding & crosslink; binding & adsorption; Chemomechanical mechanisms.</li>
-<li>Chemomechanical behaviors of graphene(-oxide)-based layered materials.</li>
-<li>Atomistic nature and structure-property relationship of nanomaterials.</li>
+<li>Interfacial nanomechanics: Chemomechanical mechanisms within noncovalent interfaces (crosslink/adsorption, multiscale structure-property relationship, material design).</li>
+<li>Chemomechanical behaviors of graphene(-oxide)-based materials.</li>
+<li>Atomistic nature of nanomaterials with extraodinary performances in mechanics, catalysis, electrochemistry, et al.</li>
 </ul>
 
 # Selected Publications
