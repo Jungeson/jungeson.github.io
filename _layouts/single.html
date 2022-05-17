@@ -78,7 +78,8 @@ layout: default
       {% include post_pagination.html %}
     </div>
 
-    <script src="https://giscus.app/client.js"
+    {% if page.comments %}
+      <script src="https://giscus.app/client.js"
         data-repo="Jungeson/jungeson.github.io"
         data-repo-id="MDEwOlJlcG9zaXRvcnkzODYxNjg5ODk="
         data-category="Announcements"
@@ -92,9 +93,7 @@ layout: default
         data-loading="lazy"
         crossorigin="anonymous"
         async>
-    </script>
-    {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
+      </script>
     {% endif %}
   </article>
 
