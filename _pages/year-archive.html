@@ -32,7 +32,7 @@ redirect_from:
       </details>
     {% endif %}
     <details class="details-1" open>
-    <summary style="outline: 0; margin-bottom: 20px"><h2 style="display: inline; color: #ffffff;" id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2></summary>
+    <summary style="outline: 0; margin-bottom: 20px"><h2 style="display: inline; color: #ffffff;" id="{{ year | slugify }}">{{ year }}</h2></summary>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
