@@ -1,0 +1,15 @@
+---
+title: 'python'
+date: 2022-05-22
+author: 张克莱
+permalink: /posts/2022/05/22/1/
+tags:
+  - python
+  - 命令窗口
+  - 闪退
+---
+
+&emsp;&emsp;双击.py文件运行python脚本文件时，命令窗口闪了一下就退出了怎么办？<br/>
+可以直接添加一下命令强制开启命令窗口:<br/>
+import os <br/>
+os.system("pause") <br/>
