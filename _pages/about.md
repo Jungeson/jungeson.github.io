@@ -87,7 +87,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
   </tr>
   <tr>
     <td align="center"><img src='./images/publication_images/2021-03-11-Nat-Catal.gif' width="300"></td>
-    <td align="center">Solid–liquid phase transition induced electrocatalytic switching from hydrogen evolution to highly selective CO<sub>2</sub> reduction<br/><a class=style1 href="./publication/2021-03-11-Nat-Catal.html" target="_blank"><i><b>Nat. Catal.</b></i>, 2021, 4, 202–211.</a></td>
+    <td align="center">Solid–liquid phase transition induced electrocatalytic switching from hydrogen evolution to highly selective CO<sub>2</sub> reduction<br/><a class=style1 href="./publication/2021-03-11-Nat-Catal.html" target="_blank"><i><b>Nat. Catal.</b></i>, 2021, 4(3), 202–211.</a></td>
   </tr>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
@@ -121,7 +121,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
   </tr>
   <tr>
     <td align="center"><img src='./images/publication_images/2021-03-11-Nat-Catal.gif' width="270"></td>
-    <td align="center"><a class=style1 href="./publication/2021-03-11-Nat-Catal.html" target="_blank"><i><b>Nat. Catal.</b></i>, 2021, 4, 202–211.</a></td>
+    <td align="center"><a class=style1 href="./publication/2021-03-11-Nat-Catal.html" target="_blank"><i><b>Nat. Catal.</b></i>, 2021, 4(3), 202–211.</a></td>
   </tr>
   <tr>
     <td colspan="2"><hr style="border-color:lightgrey;" /></td>
