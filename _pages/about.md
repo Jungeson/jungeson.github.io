@@ -62,7 +62,7 @@ Department of Modern Mechanics, University of Science and Technology of China (U
 <ul class="circle">
 <li>Interfacial nanomechanics: Chemomechanical mechanisms within noncovalent interfaces (crosslink/adsorption, multiscale structure-property relationship, material design).</li>
 <li>Chemomechanical behaviors of graphene(-oxide)-based materials.</li>
-<li>Atomistic nature of nanomaterials with extraodinary performances in mechanics, catalysis, electrochemistry, and et al.</li>
+<li>Atomistic nature of nanomaterials with extraordinary performances in mechanics, catalysis, electrochemistry, and et al.</li>
 </ul>
 
 # Selected Publications
